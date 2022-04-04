@@ -1,5 +1,5 @@
 hello Lucy! hello git!
-hello Lucy! hello git!
+hello Lucy! hello git!master test
 hello Lucy! hello git!
 hello Lucy! hello git!
 hello Lucy! hello git!
